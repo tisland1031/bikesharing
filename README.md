@@ -1,7 +1,9 @@
 # NYC Citi Bike Sharing
 ## Overview
 This analysis aims to convince stakeholders to invest in a bike-sharing program in Des Moines, Iowa. The analysis is an overview of the bike-sharing program in New York City (NYC). The bike trip analysis will consist of a story utilizing Tableau for the final presentation.
-### Link to Tableau below:
+### Links to Tableau below:
+[Link to Dashboard](https://public.tableau.com/views/NYCCitiBikeChallengeDashboard/NYCCitiBikeChallengeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 [Link to Story](https://public.tableau.com/views/NYCCitiBikeChallengeStory_16532714463770/NYCCitiBikeChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
