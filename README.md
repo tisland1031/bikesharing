@@ -51,6 +51,10 @@ Figure 7
 - Both starting and ending location represents the NYC borough of Manhattan.
 
 ## Summary
+The Citi Bike ride-sharing program is successful in the Manhattan area due to its highly populated and popular destination. 
+The results indicate the following:
+- Male users, approximately in their thirties, are more likely to utilize the bike-sharing program for work transportation during morning and evening commute times.
+- Although subscribers have the highest usage, customers increase during the weekend.
 
 ### Additional Visualizations
 ### Top Ten Places People Bike to
@@ -62,7 +66,9 @@ Figure 8
 Figure 9
 ![fig_9](https://user-images.githubusercontent.com/96746207/169902960-d2021943-382d-4bce-8b6c-e3078e4f2f69.png)
 - Women between their late forties and early fifties are more apt to use a bike.
-- However, males in their thirties are engaging in the bike-sharing program.    
+- However, males in their thirties are consistently engaging in the bike-sharing program.    
+
+  
 
 
 
