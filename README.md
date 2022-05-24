@@ -1,6 +1,6 @@
 # NYC Citi Bike Sharing
 ## Overview
-This analysis aims to convince stakeholders to invest in a bike-sharing program in Des Moines, Iowa. The analysis is an overview of the bike-sharing program in New York City (NYC). The bike trip analysis will consist of a story utilizing Tableau for the final presentation.
+This analysis aims to convince stakeholders to invest in a bike-sharing program in Des Moines, Iowa. The study is an overview of the bike-sharing program in New York City (NYC). The bike trip analysis will consist of a story utilizing Tableau for the final presentation.
 ### Links to Tableau below:
 [Link to Dashboard](https://public.tableau.com/views/NYCCitiBikeChallengeDashboard/NYCCitiBikeChallengeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -29,7 +29,7 @@ Figure 3
 ### Trips by Weekday per Hour
 Figure 4
 ![fig_4](https://user-images.githubusercontent.com/96746207/169902920-bc4c3f95-ed33-49aa-b9f6-26fc90b80817.png)
-- The same trend as Figure 3, weekdays are the busiest during work hours.
+- The same trend as Figure 3, weekdays are the busiest during the morning and evening commute.
 - Thursday evening from 1700-1800 have the most riders.
 - Weekends trends show a consistent usage between 1000-1800.
 - Saturdays have the highest usage.
@@ -55,7 +55,7 @@ The Citi Bike ride-sharing program is successful in the Manhattan area due to it
 The results indicate the following:
 - Male users, approximately in their thirties, are more likely to utilize the bike-sharing program for work transportation during morning and evening commute times.
 - Although subscribers have the highest usage, customers increase during the weekend.
-- Bikes are used for a brief amount of time, five minutes being the highest time but rarely exceeds one hour. 
+- Bikes are used for a brief amount of time, five minutes being the highest time but rarely exceeding one hour. 
 
 ### Additional Visualizations
 ### Top Ten Places People Bike to
